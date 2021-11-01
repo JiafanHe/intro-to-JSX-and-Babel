@@ -1,2 +1,2 @@
-# intro-to-JSX-and-Babel
+# Intro-to-JSX
 Created with CodeSandbox
